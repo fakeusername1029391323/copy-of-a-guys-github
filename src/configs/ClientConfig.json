@@ -1,0 +1,12 @@
+{
+	"serverType": "http",
+	"serverPort": 80,
+	"serverName": "Snake attack",
+	"serverUrl": "archon.co.nr",
+	"gameservers": [
+		{
+			"ip": "127.0.0.1",
+			"po": 25565
+		}
+	]
+}
